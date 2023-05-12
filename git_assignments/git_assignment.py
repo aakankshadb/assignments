@@ -9,6 +9,8 @@ for i in range(1,5):
     print("Hello")
 for i in range(0,6):
     print("Good evening!")
+print("Hi!")
+
 
 
 
