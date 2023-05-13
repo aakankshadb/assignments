@@ -7,8 +7,6 @@ for i in range(1,5):
 print("one")
 print("two")
 print("three")
-for i in range(0,4):
-    print("*") #added the code in feature to do reset
 
 
 
