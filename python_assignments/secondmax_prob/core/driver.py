@@ -1,5 +1,5 @@
-from python_assignments.python_3_secondmax_prob.core.utils import *
-
+from python_assignments.secondmax_prob.core.utils import *
+print("Enter the length of the list")
 n=int(input())
 lis=[]
 for i in range(n):
